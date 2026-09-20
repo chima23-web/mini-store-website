@@ -8,4 +8,4 @@ A Mini product store website using
 ##Features
 A well structured HTML codes 
 A Responsive Design layout 
-An interactive buttons such as shop Now button e.t.c
+An interactive website using Arrays, objects,DOM Manipulations, Events And Eventlisteners
